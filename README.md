@@ -2,9 +2,9 @@
 Decentralized Election Voting dapp built on IoTeX testnet! <br> 
 IoTeX is ethereum compatible blockchain which combines innovations in blockchain, decentralized identity (DID), and secure hardware to ensure users, not corporations, are in complete control of their digital assets.
 
-![1]()
-![1]()
-![1]()
+![1](https://github.com/GITCOINDEVELOPER/ITXVOTE/blob/main/shots/1.jpg)
+![1](https://github.com/GITCOINDEVELOPER/ITXVOTE/blob/main/shots/2.jpg)
+![1](https://github.com/GITCOINDEVELOPER/ITXVOTE/blob/main/shots/3.jpg)
 
 ## Step 1. Clone the project
 `git clone https://github.com/GITCOINDEVELOPER/ITXVOTE`
